@@ -1,4 +1,3 @@
-# Avaliacao Estagio
 # Titulo - Sistema de Agendamento de Salas de Reunião
 ## Instruções para Testar a Aplicação:
 
@@ -25,6 +24,7 @@ Git para clonar e gerenciar o código.
 
 
 ## Como Testar a Aplicação:
+Primeiramente, na classe ConnectionFactory, configure a instância com o BD Oracle com endereço completo e suas credenciais.
 A aplicação está dividida em três módulos principais de visualização. Execute cada classe View para testar as funcionalidades:
 
 
