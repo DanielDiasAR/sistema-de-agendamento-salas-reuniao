@@ -1,11 +1,10 @@
-# Avaliacao Estagio
 # Titulo - Sistema de Agendamento de Salas de Reunião
+
 ## Problema:
 Uma empresa precisa de um sistema para controlar o agendamento de suas salas de reunião.
 O sistema deve permitir que os colaboradores reservem salas, evitando conflitos de horário e garantindo que os recursos necessários estejam disponíveis.
 
 ### Requisitos Funcionais:
-
 CRUD Completo para:
 Salas de Reunião: Número da sala, localização, capacidade de pessoas, recursos disponíveis (projetor, TV, quadro branco, etc.).
 Colaboradores: Nome, departamento, e-mail.
@@ -20,7 +19,6 @@ Horário Comercial: As reuniões só podem ser agendadas entre 8h e 18h.
 ### Mensagens de feedback:
 Em caso de conflito: "A sala [X] já está reservada para o horário das [H1] às [H2] no dia [D]."
 Em caso de sucesso: "Agendamento para [Título da Reunião] registrado com sucesso."
-
 
 # Banco de dados: 
 Utilizar um banco de dados para implementar o seguinte diagrama de entidade e relacionamentos:
